@@ -1,5 +1,5 @@
 {
-  "name": "crud-dh",
+  "name": "object-oriented-calculator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anderson-Moreton/crud-dh.git"
+    "url": "git+https://github.com/Anderson-Moreton/object-oriented-calculator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Anderson-Moreton/crud-dh/issues"
+    "url": "https://github.com/Anderson-Moreton/object-oriented-calculator.git/issues"
   },
-  "homepage": "https://github.com/Anderson-Moreton/crud-dh#readme",
+  "homepage": "https://github.com/Anderson-Moreton/object-oriented-calculator.git#readme",
   "dependencies": {
     "express": "^4.17.2"
   }
